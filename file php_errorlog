@@ -1,0 +1,11 @@
+[01-Sep-2025 11:27:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'location' in 'where clause' in /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php:27
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php(27): mysqli->query('SELECT * FROM h...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php on line 27
+[01-Sep-2025 11:40:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'location' in 'where clause' in /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php:27
+Stack trace:
+#0 /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php(27): mysqli->query('SELECT * FROM h...')
+#1 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/SHERATONHOTELSCLONE/list.php on line 27
+ 
